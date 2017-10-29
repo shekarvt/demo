@@ -2,3 +2,4 @@ initial file in master branch
 additional changes to changes
 amend changes
 
+added changes (head is on feature1)
